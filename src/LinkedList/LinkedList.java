@@ -38,9 +38,7 @@ public class LinkedList<T> {
 		throw new UnsupportedOperationException();
 	}
 	
-	// TODO: remove by Value
-	public T removeAt(T val) {
-		throw new UnsupportedOperationException();
+	public T remove(T val) {
 	}
 	
 	// TODO: print from start to end with index horizontally
